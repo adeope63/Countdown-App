@@ -48,7 +48,6 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Adefila Mustapha](https://www.adeope.org)
-- Frontend Mentor - [@adeope63](https://www.frontendmentor.io/profile/adeope63)
 - Twitter - [@adeope63](https://www.twitter.com/adeope63)
 
 
